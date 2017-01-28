@@ -21,3 +21,15 @@ nav p {
 main {
 	padding-top: 100px;
 }
+
+.mag-button {
+	border: 1px #b7b7b7 solid;
+	height: 23px;
+	width: 23px;
+	position: relative;
+	top: 8px;
+}
+
+.left-margin {
+	margin-left: 100px;
+}
