@@ -45,9 +45,17 @@ main {
 	padding-right: 20px;
 }
 
-.pagebar-nav {
+.pagebar-nav-1, .pagebar-nav-2 {
 	padding-left: 15px;
 	padding-right: 15px;
+}
+
+.pagebar-nav-1 {
+	border-radius: 3px 0px 0px 3px;
+}
+
+.pagebar-nav-2 {
+	border-radius: 0px 3px 3px 0px;
 }
 
 .results {
@@ -63,6 +71,8 @@ main {
 
 .results a:link, .results a:visited {
 	color: blue;
-	text-decoration: none;
 }
 
+a:link, a:visited {
+	text-decoration: none
+}
