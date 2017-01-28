@@ -33,3 +33,23 @@ main {
 .left-margin {
 	margin-left: 100px;
 }
+
+.pagebar {
+	margin-top: 50px;
+}
+
+.pagebar span {
+	border: 1px #b7b7b7 solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.pagebar-counter {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.pagebar-nav {
+	padding-left: 15px;
+	padding-right: 15px;
+}
