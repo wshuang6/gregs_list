@@ -1,4 +1,25 @@
+nav {
+	background-color: #dbdcdd;
+	position: fixed;
+	width: 100%;
+/*	padding-top: 10px;
+	padding-bottom: 10px;*/
+}
+
+nav p {
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+.nav-links {
+	float: right;
+	margin-right: 20px;
+}
 
 .results {
 	/*Only margin the link*/
+}
+
+main {
+	padding-top: 200px;
 }
