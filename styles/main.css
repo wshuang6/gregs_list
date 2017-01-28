@@ -2,12 +2,10 @@ nav {
 	background-color: #dbdcdd;
 	position: fixed;
 	width: 100%;
-/*	padding-top: 10px;
-	padding-bottom: 10px;*/
 }
 
 nav p {
-	padding-left: 10px;
+	margin-left: 10px;
 	font-size: 20px;
 }
 
@@ -21,5 +19,5 @@ nav p {
 }
 
 main {
-	padding-top: 200px;
+	padding-top: 100px;
 }
