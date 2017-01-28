@@ -14,10 +14,6 @@ nav p {
 	margin-right: 20px;
 }
 
-.results {
-	/*Only margin the link*/
-}
-
 main {
 	padding-top: 100px;
 }
@@ -53,3 +49,20 @@ main {
 	padding-left: 15px;
 	padding-right: 15px;
 }
+
+.results {
+	padding-top: 60px;
+	padding-left: 0px;
+	color: #b7b7b7;
+}
+
+.results li {
+	list-style-type: none;
+	padding-bottom: 10px;
+}
+
+.results a:link, .results a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
